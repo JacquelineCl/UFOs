@@ -13,7 +13,7 @@ In order to get to the information you're looking for:
 4. Enter additional search criteria in another input box to further refine the results if desired
 
 If you don't receive the expected results, verify the formatting of the inforamtion matches the image below:
-image url
+![Example of a successful search](https://github.com/JacquelineCl/UFOs/blob/6a91b111f69b4b43f068e9e02346737ab6d69f46/static/images/example_search.PNG)
 
 ## Summary
 This webpage does simplify searching through the information provided much easier, however it does  
