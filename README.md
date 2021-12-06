@@ -16,7 +16,7 @@ If you don't receive the expected results, verify the formatting of the inforamt
 ![Example of a successful search](https://github.com/JacquelineCl/UFOs/blob/6a91b111f69b4b43f068e9e02346737ab6d69f46/static/images/example_search.PNG)
 
 ## Summary
-This webpage does simplify searching through the information provided much easier, however it does  
+This webpage does simplify searching through the information provided much easier, however it only provieds information from January 2010. One area of opportunity is to include more sightings. 
 
 Further development could include:
 * adding a way to easily clear the filters
